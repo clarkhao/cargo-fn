@@ -24,3 +24,4 @@ cargo package
 cargo package --list
 cargo login token
 cargo publish
+# crates.io
